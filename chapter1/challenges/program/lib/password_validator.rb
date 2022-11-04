@@ -7,5 +7,6 @@ def valid?(password)
         return true
     else  
         return false
-    end  
+    end 
 end
+#new branch test
